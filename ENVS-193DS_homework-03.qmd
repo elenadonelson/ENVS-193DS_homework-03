@@ -186,6 +186,19 @@ ggplot(
 
 **Figure 2. Relationship between amount of sleep (hours) and coffee consumption (cups) from April–May 2026.** Points represent individual daily observations of sleep duration and coffee consumption. The x-axis shows the amount of sleep recorded each day, while the y-axis shows the number of cups of coffee consumed. Data source: Daily habits tracking dataset collected by Elena Donelson. Data accessed 2026-05-28.
 
+# 3.
+
+## a.
+
+An affective visualization of my personal data could represent each day as a growing plant. The height of the stem could show how many hours I slept, the number of leaves could represent cups of coffee consumed, flowers could represent exercise, and roots could represent hours spent on schoolwork. Days with more sleep and exercise would appear healthier and more vibrant, while days with less sleep and more coffee would look weaker. This would create a visual representation of how my daily habits contribute to my overall well-being.
+
+
+
+
+
+
+
+
 
 
 
