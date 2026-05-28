@@ -68,7 +68,33 @@ ggplot(
   )
 ```
 
+## c. 
 
+### Checking assumptions
+
+```{r}
+# creating a linear model to test the relationship between ocean temperature
+# and giant kelp frond elongation rate
+kelp_lm <- lm(
+  kelp_elong ~ temp_c,
+  data = kelp
+)
+
+# creating diagnostic plots to check linear regression assumptions
+plot(kelp_lm)
+```
+
+I checked the assumptions for a simple linear regression, including linearity, normality of residuals, and equal variance. I checked these assumptions using the diagnostic plots from the linear model. Based on the plots, the assumptions appear reasonable enough to continue with the linear regression test.
+
+### Running the test
+
+```{r}
+# running a simple linear regression to test whether ocean temperature
+# predicts giant kelp frond elongation rate
+summary(kelp_lm)
+```
+
+A simple linear regression showed a significant relationship between ocean temperature and giant kelp frond elongation rate (F = 26.93, df = 1, 30, p < 0.001). Temperature was a significant predictor of elongation rate (β = -0.432, p < 0.001), indicating that kelp frond elongation rate decreased as ocean temperature increased. The model explained approximately 47.3% of the variation in elongation rate (R² = 0.473).
 
 
 
