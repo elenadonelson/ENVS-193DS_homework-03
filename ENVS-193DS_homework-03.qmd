@@ -120,5 +120,73 @@ cor.test(
 
 The Pearson correlation test and the simple linear regression would have led me to the same conclusion because both tests found a significant relationship between ocean temperature and giant kelp frond elongation rate (p < 0.001). The Pearson correlation showed a moderately strong negative relationship between the two continuous variables (r = -0.688), while the linear regression showed that giant kelp frond elongation rate decreases as ocean temperature increases. Therefore, both tests indicate that warmer ocean temperatures are associated with slower giant kelp growth.
 
+#. Problem 2. Personal data
+
+## a.
+
+```{r}
+# creating a plot that shows the relationship between exercise and hours slept
+ggplot(
+  coffee_data,
+  aes(
+    x = exercise,
+    y = hours_slept,
+    color = exercise
+  )
+) +
+  # plotting individual data points
+  geom_jitter(width = 0.15, height = 0) +
+
+  # setting custom colors for groups
+  scale_color_manual(values = c(
+    "yes" = "forestgreen",
+    "no" = "firebrick"
+  )) +
+
+  # changing the theme
+  theme_minimal() +
+
+  # adding a title and labeling the x and y-axis
+  labs(
+    title = "There is no clear correlation between exercising and sleep",
+    x = "Exercised (yes/no)",
+    y = "Amount of sleep (hours)"
+  ) +
+
+  # removing the legend
+  theme(legend.position = "none")
+```
+
+```{r}
+# creating a scatter plot of sleep data and coffee consumption
+ggplot(
+  coffee_data,
+  aes(
+    x = hours_slept,
+    y = coffee_cups
+  )
+) +
+  # plotting individual data points
+  geom_point(color = "steelblue", size = 3) +
+
+  # changing the theme
+  theme_classic() +
+
+  # adding a title and naming the x and y-axis
+  labs(
+    title = "Relationship between sleep and coffee consumption",
+    x = "Amount of sleep (hours)",
+    y = "Coffee consumed (cups)"
+  )
+```
+
+
+
+
+
+
+
+
+
 
 
