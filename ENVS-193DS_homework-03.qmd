@@ -1,0 +1,47 @@
+---
+title: "ENVS 193DS Homework 03"
+author: "Elena Donelson"
+date: today
+format: pdf
+editor: source
+execute:
+  message: false
+  warning: false
+---
+
+# Setup
+
+```{r}
+# loading in packages
+library(tidyverse)
+library(janitor)
+library(gt)
+library(rstatix)
+
+# reading in kelp data
+kelp <- read_csv("temp-kelp.csv")
+
+# reading in my coffee data
+coffee_data <- read_csv("coffee_data 2.csv")
+```
+
+# Problem 1. Giant kelp fronds
+
+## a.
+
+You could use either a Pearson correlation test or a simple linear regression to determine the strength of the relationship between ocean temperature (°C) and giant kelp frond elongation rate (cm day⁻¹). Both tests analyze the relationship between two continuous quantitative variables, but a Pearson correlation measures the strength and direction of the relationship, while a linear regression tests how changes in ocean temperature predict changes in giant kelp frond elongation rate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
