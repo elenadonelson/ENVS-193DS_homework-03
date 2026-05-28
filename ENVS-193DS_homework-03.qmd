@@ -102,7 +102,9 @@ To evaluate the relationship between ocean temperature and giant kelp frond elon
 
 The linear regression showed a significant negative relationship between ocean temperature and giant kelp frond elongation rate (F = 26.93, df = 1, 30, p < 0.001, R² = 0.473). As ocean temperature increased, giant kelp frond elongation rate decreased, suggesting that warmer ocean temperatures are associated with slower giant kelp growth.
 
+## e.
 
+The results suggest that higher ocean temperatures are associated with slower giant kelp growth. This could mean that continued ocean warming may negatively affect giant kelp forests by reducing their growth rates and overall health. Since giant kelp provides important habitat for many marine species, monitoring ocean temperatures and kelp growth could help identify areas that may be more vulnerable to climate change.
 
 
 
