@@ -31,7 +31,42 @@ coffee_data <- read_csv("coffee_data 2.csv")
 
 You could use either a Pearson correlation test or a simple linear regression to determine the strength of the relationship between ocean temperature (°C) and giant kelp frond elongation rate (cm day⁻¹). Both tests analyze the relationship between two continuous quantitative variables, but a Pearson correlation measures the strength and direction of the relationship, while a linear regression tests how changes in ocean temperature predict changes in giant kelp frond elongation rate.
 
+## b.
 
+```{r}
+# creating a scatter plot showing the relationship between ocean temperature
+# and giant kelp frond elongation rate
+ggplot(
+  kelp,
+  aes(
+    x = temp_c,
+    y = kelp_elong
+  )
+) +
+
+  # plotting individual data points
+  geom_point(
+    color = "darkgreen",
+    size = 3
+  ) +
+
+  # adding a trend line
+  geom_smooth(
+    method = "lm",
+    se = FALSE,
+    color = "steelblue"
+  ) +
+
+  # changing the theme
+  theme_classic() +
+
+  # labeling the axes and title
+  labs(
+    title = "Relationship between ocean temperature and giant kelp frond elongation rate",
+    x = "Ocean temperature (°C)",
+    y = "Giant kelp frond elongation rate (cm day⁻¹)"
+  )
+```
 
 
 
