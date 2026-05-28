@@ -96,7 +96,11 @@ summary(kelp_lm)
 
 A simple linear regression showed a significant relationship between ocean temperature and giant kelp frond elongation rate (F = 26.93, df = 1, 30, p < 0.001). Temperature was a significant predictor of elongation rate (β = -0.432, p < 0.001), indicating that kelp frond elongation rate decreased as ocean temperature increased. The model explained approximately 47.3% of the variation in elongation rate (R² = 0.473).
 
+## d. 
 
+To evaluate the relationship between ocean temperature and giant kelp frond elongation rate, I used a simple linear regression. I used this test because both variables are continuous quantitative variables, and I wanted to see whether ocean temperature could predict changes in giant kelp frond elongation rate.
+
+The linear regression showed a significant negative relationship between ocean temperature and giant kelp frond elongation rate (F = 26.93, df = 1, 30, p < 0.001, R² = 0.473). As ocean temperature increased, giant kelp frond elongation rate decreased, suggesting that warmer ocean temperatures are associated with slower giant kelp growth.
 
 
 
