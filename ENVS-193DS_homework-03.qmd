@@ -180,7 +180,11 @@ ggplot(
   )
 ```
 
+## b. 
 
+**Figure 1. Relationship between exercise status and amount of sleep (hours) from April–May 2026**. Points represent individual daily observations of sleep duration. Green points represent days when exercise was completed, and red points represent days when exercise was not completed. Data source: Daily habits tracking dataset collected by Elena Donelson. Data accessed 2026-05-28.
+
+**Figure 2. Relationship between amount of sleep (hours) and coffee consumption (cups) from April–May 2026.** Points represent individual daily observations of sleep duration and coffee consumption. The x-axis shows the amount of sleep recorded each day, while the y-axis shows the number of cups of coffee consumed. Data source: Daily habits tracking dataset collected by Elena Donelson. Data accessed 2026-05-28.
 
 
 
