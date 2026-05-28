@@ -106,9 +106,19 @@ The linear regression showed a significant negative relationship between ocean t
 
 The results suggest that higher ocean temperatures are associated with slower giant kelp growth. This could mean that continued ocean warming may negatively affect giant kelp forests by reducing their growth rates and overall health. Since giant kelp provides important habitat for many marine species, monitoring ocean temperatures and kelp growth could help identify areas that may be more vulnerable to climate change.
 
+## f.
 
+```{r}
+# running a Pearson correlation test to determine the strength and direction
+# of the relationship between ocean temperature and giant kelp frond elongation rate
+cor.test(
+  kelp$temp_c,
+  kelp$kelp_elong,
+  method = "pearson"
+)
+```
 
-
+The Pearson correlation test and the simple linear regression would have led me to the same conclusion because both tests found a significant relationship between ocean temperature and giant kelp frond elongation rate (p < 0.001). The Pearson correlation showed a moderately strong negative relationship between the two continuous variables (r = -0.688), while the linear regression showed that giant kelp frond elongation rate decreases as ocean temperature increases. Therefore, both tests indicate that warmer ocean temperatures are associated with slower giant kelp growth.
 
 
 
