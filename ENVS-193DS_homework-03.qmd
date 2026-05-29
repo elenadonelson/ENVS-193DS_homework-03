@@ -230,7 +230,9 @@ The authors used linear regression analyses to investigate how different social 
 
 ![](table copy.png)
 
+## b.
 
+The table does a fairly good job of showing the results of the statistical tests because it includes the regression coefficients, odds ratios, and significance levels for each predictor variable. This makes it easy to identify which social factors had significant relationships with interest in fighting deforestation. However, the table does not show the raw data or the distribution of responses, so it is harder to visualize the magnitude and variation of the relationships.
 
 
 
