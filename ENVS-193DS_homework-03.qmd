@@ -222,7 +222,13 @@ I started by looking through my personal dataset and deciding which variables I 
 
 [View my presentation](https://docs.google.com/presentation/d/1XJVBKpJ0ewUMApUYfVOc6P7gxS82GBQGUJi_S8A0TX4/edit?usp=sharing)
 
+# 4. Statistical critique
 
+## a. 
+
+The authors used linear regression analyses to investigate how different social factors influenced people's interest in and engagement with fighting deforestation. The response variables were interest in the fight against deforestation and engagement in the fight against deforestation, while the predictor variables included gender, education level, parents' education, age, living place, birthplace, and indigenous background. These tests allowed the authors to evaluate whether each social factor was significantly related to people's attitudes and actions regarding deforestation.
+
+![](table copy.png)
 
 
 
