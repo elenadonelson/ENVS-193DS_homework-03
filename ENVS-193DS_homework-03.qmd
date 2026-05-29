@@ -192,6 +192,16 @@ ggplot(
 
 An affective visualization of my personal data could represent each day as a growing plant. The height of the stem could show how many hours I slept, the number of leaves could represent cups of coffee consumed, flowers could represent exercise, and roots could represent hours spent on schoolwork. Days with more sleep and exercise would appear healthier and more vibrant, while days with less sleep and more coffee would look weaker. This would create a visual representation of how my daily habits contribute to my overall well-being.
 
+## b. 
+
+![Sketch of affective visualization](draft.jpg) 
+
+## c.
+
+![Draft of affective visualization](color.jpg)
+
+
+
 
 
 
