@@ -218,6 +218,10 @@ Process
 
 I started by looking through my personal dataset and deciding which variables I wanted to include. I then sketched out different ideas and created a system where sleep, coffee, exercise, and schoolwork were represented by different parts of a plant. After making a rough sketch, I created a draft version that I can continue improving before the final visualization.
 
+## e. 
+
+[View my presentation](https://docs.google.com/presentation/d/1XJVBKpJ0ewUMApUYfVOc6P7gxS82GBQGUJi_S8A0TX4/edit?usp=sharing)
+
 
 
 
