@@ -200,6 +200,23 @@ An affective visualization of my personal data could represent each day as a gro
 
 ![Draft of affective visualization](color.jpg)
 
+## d. 
+
+Content of the piece
+
+My visualization shows my daily habits using data that I collected on sleep, coffee consumption, exercise, and schoolwork. Each plant represents one day, and different parts of the plant represent different variables from my dataset. The goal is to show how my habits changed over time and how they may have affected my energy and productivity.
+
+Influences
+
+My visualization was inspired by the Dear Data project because it showed how personal data can be transformed into something creative and meaningful. I was also influenced by the affective visualizations we discussed in class that focus on telling a story with data rather than just presenting numbers.
+
+Form of the work
+
+My visualization is a hand-drawn illustration made with colored pencils. I used plants as symbols because they can visually represent growth, health, and changes over time.
+
+Process
+
+I started by looking through my personal dataset and deciding which variables I wanted to include. I then sketched out different ideas and created a system where sleep, coffee, exercise, and schoolwork were represented by different parts of a plant. After making a rough sketch, I created a draft version that I can continue improving before the final visualization.
 
 
 
