@@ -238,7 +238,9 @@ The table does a fairly good job of showing the results of the statistical tests
 
 The authors handled visual clutter fairly well because the table is organized and easy to follow. There are no unnecessary colors, graphics, or extra information that distract from the results. The authors use bold text for the predictor variable names and asterisks to highlight statistically significant results, which helps draw attention to the most important findings. However, the table is still somewhat dense, so it takes time to identify the strongest relationships among the variables.
 
+## d. 
 
+One improvement would be to use bold text or shading to highlight statistically significant results so they stand out more clearly from the non-significant results. The table could also include p-values in a separate column instead of relying only on asterisks, which would make the results easier to interpret.
 
 
 
